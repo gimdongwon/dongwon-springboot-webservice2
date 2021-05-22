@@ -1,4 +1,2 @@
 com/dongwon/book/springboot/Application.java
  com.dongwon.book.springboot.Application
-com/dongwon/book/springboot/web/HelloController.java
- com.dongwon.book.springboot.web.HelloController
